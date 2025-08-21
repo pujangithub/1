@@ -3,6 +3,8 @@ import numpy as np
 from predict import predict_diabetes
 
 
+
+
 st.title("Diabetes Prediction App")
 st.write("Input your data and check you diabetes")
 
